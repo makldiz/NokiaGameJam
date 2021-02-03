@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Test","path":"rooms/Test/Test.yy",},"order":2,},
     {"id":{"name":"sprExample","path":"sprites/sprExample/sprExample.yy",},"order":0,},
     {"id":{"name":"sndSmash","path":"sounds/sndSmash/sndSmash.yy",},"order":0,},
     {"id":{"name":"sndIntro","path":"sounds/sndIntro/sndIntro.yy",},"order":1,},
@@ -27,6 +28,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"roomId":{"name":"rmExample","path":"rooms/rmExample/rmExample.yy",},},
+    {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
